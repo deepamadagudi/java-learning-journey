@@ -1,6 +1,6 @@
 package StringManipulations;
 
-public class StringManipulationsex1 {
+public class StringManipulationEx1 {
 
         public static void main(String[] args) {
 
