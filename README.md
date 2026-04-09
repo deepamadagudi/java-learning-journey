@@ -15,3 +15,8 @@
 * Public
 * Private
 * Protected
+
+## Day 3
+* Access Modifier
+* Exception Handling
+* Collections : ArrayList
